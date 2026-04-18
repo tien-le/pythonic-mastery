@@ -2,7 +2,7 @@
 
 # Purpose
 
-Reinforce advanced Python concepts and idiomatic practices through targeted reviews and practical code examples, with a focus on writing efficient, maintainable, and production-quality code
+Reinforce advanced Python concepts and idiomatic practices through targeted reviews and practical code examples, with a focus on writing efficient, maintainable, and production-quality code.
 
 # Setting Up
 
