@@ -1,0 +1,7 @@
+[project]
+name = "pythonic-mastery"
+version = "1.0.0"
+description = "A hands-on collection of Python patterns, performance techniques, and real-world coding scenarios to prepare for senior software engineering."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
